@@ -1,0 +1,82 @@
+# depslib dependency file v1.0
+1532171293 source:c:\users\user\desktop\calculator++\main.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1493810122 c:\users\user\desktop\calculator++\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532188011 source:c:\users\user\desktop\calculator++\main2.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1532278662 source:c:\users\user\desktop\calculator++\main3.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1532618781 source:e:\pdfs & study materials\academics\l1 t1\lab\cse 102\calculator++\main4.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1493810122 e:\pdfs & study materials\academics\l1 t1\lab\cse 102\calculator++\igraphics.h
+	<stdio.h>
+	<stdlib.h>
+	<gl/glut.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<gl\glaux.h>
+
+1532631146 source:e:\pdfs & study materials\academics\l1 t1\lab\cse 102\calculator++\1-1_termproject_calculator_theme_added.cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1532682703 source:e:\pdfs & study materials\academics\l1 t1\lab\cse 102\calculator++\calculator_(3_new_themes_finalized).cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1532717406 source:e:\pdfs & study materials\academics\l1 t1\lab\cse 102\calculator++\calculator project_themes (revisited and debugged ).cpp
+	"iGraphics.h"
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1532868218 source:e:\pdfs & study materials\academics\l1 t1\lab\cse 102\calculator++\main5.cpp
+	"iGraphics.h"
+	"calculator.h"
+
+1532883605 e:\pdfs & study materials\academics\l1 t1\lab\cse 102\calculator++\calculator.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+
+1532884073 source:e:\pdfs & study materials\academics\l1 t1\lab\cse 102\calculator++\main6.cpp
+	"iGraphics.h"
+	"calculator.h"
+
