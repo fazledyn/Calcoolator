@@ -4,6 +4,7 @@
     CSE 102 : Project <br>
     Programming Language : C, Visual C Library (iGraphics.h) <br>
     Team Mates : Jawad & Rifat <br>
+    <a href="https://bit.do/calcoolator"> Find the executable file here ! </a> <br>
 </p>
 
 <b> Description : </b>
@@ -32,5 +33,3 @@
 ![39094932_948392628682290_5409334116141236224_n](https://user-images.githubusercontent.com/47297916/62932081-47b75800-bde1-11e9-9b20-587cd099d1c0.jpg)
 <br>
 
-<code> That's it, guys !</code> <br>
-<a href="https://bit.do/calcoolator"> Find the executable file here ! </a>
